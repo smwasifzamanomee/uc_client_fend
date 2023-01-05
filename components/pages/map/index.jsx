@@ -1,0 +1,13 @@
+
+// import { GoogleMap } from 'react-google-maps';
+
+// const Map = ({}) => {
+//   return <div>
+//  <GoogleMap
+//       defaultZoom={8}
+//       defaultCenter={{ lat: -34.397, lng: 150.644 }}
+//     />
+//   </div>
+// }
+
+// export default Map
